@@ -1,0 +1,879 @@
+generated: '2026-07-17'
+method: searched
+source: https://eqtgroup.com/about/current-portfolio
+summary:
+  portfolio_total: 94
+  in_network: 13
+  api_providers: 8
+  missing: 81
+  stubs_created: 0
+companies:
+- name: 1X
+  url: https://www.1x.tech/
+  description: Androids to benefit society and meet the world's labor
+  sector: ai-robotics
+  status: active
+  source: https://eqtgroup.com/about/current-portfolio
+  slug: 1x-robotics
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Acerta Analytics
+  url: https://acerta.ai/
+  description: Speed up understanding of process and quality issues on the shop floor, and improve scrap,
+    rework, and FTT.
+  sector: manufacturing-analytics
+  status: active
+  source: https://eqtgroup.com/about/current-portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: acerta-analytics
+- name: AnyDesk
+  url: https://anydesk.com/
+  description: The fast remote desktop application
+  sector: remote-work
+  status: active
+  source: https://eqtgroup.com/about/current-portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: anydesk
+- name: Anyfin
+  url: https://anyfin.com/
+  description: Giving financial power back to consumers
+  sector: fintech
+  status: active
+  source: https://eqtgroup.com/about/current-portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: anyfin
+- name: Argil
+  description: The AI-powered hiring platform.
+  sector: artificial-intelligence
+  status: active
+  source: https://eqtgroup.com/about/current-portfolio
+  slug: argil
+  in_network: true
+  is_api_provider: true
+  matched_by: name-slug
+- name: Baller League
+  url: https://ballerleague.de/
+  description: A new era of football.
+  sector: sport
+  status: active
+  source: https://eqtgroup.com/about/current-portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: baller-league
+- name: Beamery
+  url: https://beamery.com/
+  description: Talent operating system
+  sector: hr-tech
+  status: active
+  source: https://eqtgroup.com/about/current-portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: beamery
+- name: Beside
+  url: 'https://www.beside.com/ '
+  description: 'Beside brings AI to where real business happens: conversations.'
+  sector: software
+  status: active
+  source: https://eqtgroup.com/about/current-portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: beside
+- name: Biolevate
+  url: https://www.biolevate.com/
+  description: AI-Assisted Healthcare Innovation.
+  sector: artificial-intelligence
+  status: active
+  source: https://eqtgroup.com/about/current-portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: biolevate
+- name: Bluebook
+  description: Bluebook is a portfolio company of EQT.
+  sector: fintech
+  status: active
+  source: https://eqtgroup.com/about/current-portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: bluebook
+- name: Buena
+  url: https://www.buena.com/
+  description: Better housing for everyone
+  sector: housing
+  status: active
+  source: https://eqtgroup.com/about/current-portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: buena
+- name: Camion
+  url: https://www.camion.energy/
+  description: Camion handles all of the energy inquiries with consultant-grade precision, liberating
+    teams to focus on creating value.
+  sector: energy-and-environmental
+  status: active
+  source: https://eqtgroup.com/about/current-portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: camion
+- name: Candela
+  url: https://candela.com/
+  description: The first modern watercraft breaking rules and setting new ones
+  sector: sustainability
+  status: active
+  source: https://eqtgroup.com/about/current-portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: candela
+- name: Clarifeye
+  url: https://www.clarifeye.ai/
+  description: By offering a genAI-ready data layer that bridges raw data, human expertise and LLMs, Clarifeye
+    enables AI agents to reason like your best human experts.
+  sector: artificial-intelligence
+  status: active
+  source: https://eqtgroup.com/about/current-portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: clarifeye
+- name: Cleo
+  url: https://www.meetcleo.com/
+  description: Transforming the next generation's relationship with money
+  sector: fintech
+  status: active
+  source: https://eqtgroup.com/about/current-portfolio
+  slug: cleo
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Codacy
+  url: https://www.codacy.com/
+  description: Automate your code quality
+  sector: software-development
+  status: active
+  source: https://eqtgroup.com/about/current-portfolio
+  slug: codacy
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Depict.AI
+  url: https://depict.ai/
+  description: The new standard in product recommendations
+  sector: e-commerce
+  status: active
+  source: https://eqtgroup.com/about/current-portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: depictai
+- name: dottxt
+  description: An AI developer tool that makes LLMs speak the language of every application, unlocking
+    the key to building AI apps at scale.
+  sector: artificial-intelligence
+  status: active
+  source: https://eqtgroup.com/about/current-portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: dottxt
+- name: ecoplanet
+  url: http://www.ecoplanet.tech
+  description: ecoplanet is a portfolio company of EQT.
+  sector: climate
+  status: active
+  source: https://eqtgroup.com/about/current-portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: ecoplanet
+- name: Einride
+  url: https://www.einride.tech/
+  description: Intelligent technologies for movement
+  sector: sustainable-transport
+  status: active
+  source: https://eqtgroup.com/about/current-portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: einride
+- name: Endgame
+  url: https://www.endgame.io/
+  description: Welcome to product-led sales
+  sector: technology
+  status: active
+  source: https://eqtgroup.com/about/current-portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: endgame
+- name: evroc
+  url: https://evroc.com/
+  description: Powering a Digital Europe
+  sector: cloud-computing
+  status: active
+  source: https://eqtgroup.com/about/current-portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: evroc
+- name: Flow Engineering
+  url: https://flowengineering.com/
+  description: Better collaboration or engineering teams
+  sector: software-development
+  status: active
+  source: https://eqtgroup.com/about/current-portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: flow-engineering
+- name: Fly.io
+  url: https://fly.io/
+  description: Deploying apps close to the users
+  sector: software-development
+  status: active
+  source: https://eqtgroup.com/about/current-portfolio
+  slug: fly-io
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Formo
+  url: https://formo.bio/
+  description: Supercharging animal-free cheese production
+  sector: '-'
+  status: active
+  source: https://eqtgroup.com/about/current-portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: formo
+- name: Frontify
+  url: https://www.frontify.com/
+  description: Maximizing brand consistency and efficiency
+  sector: marketing
+  status: active
+  source: https://eqtgroup.com/about/current-portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: frontify
+- name: Generative Engineering
+  url: https://generative.vision/
+  description: Revolutionizing engineering efficiency
+  sector: engineering-services
+  status: active
+  source: https://eqtgroup.com/about/current-portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: generative-engineering
+- name: Griffin
+  url: https://griffin.sh/
+  description: The bank you can build on
+  sector: fintech
+  status: active
+  source: https://eqtgroup.com/about/current-portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: griffin
+- name: HackerOne
+  url: https://www.hackerone.com/
+  description: Hacker-Powered Security
+  sector: cybersecurity
+  status: active
+  source: https://eqtgroup.com/about/current-portfolio
+  slug: hackerone
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Handshake
+  url: https://www.joinhandshake.com/
+  description: 'The #1 way college students get hired'
+  sector: hr-tech
+  status: active
+  source: https://eqtgroup.com/about/current-portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: handshake
+- name: Heart Aerospace
+  url: https://heartaerospace.com/
+  description: Electrifying air travel
+  sector: sustainable-transport
+  status: active
+  source: https://eqtgroup.com/about/current-portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: heart-aerospace
+- name: Holidu
+  url: https://www.holidu.com/
+  description: Vacation rentals made easy
+  sector: travel-and-leisure
+  status: active
+  source: https://eqtgroup.com/about/current-portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: holidu
+- name: Hume.AI
+  url: https://www.hume.ai/
+  description: Empathic AI to serve human well-being
+  sector: artificial-intelligence
+  status: active
+  source: https://eqtgroup.com/about/current-portfolio
+  slug: hume-ai
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Infinit
+  url: https://www.infinit.com/
+  description: Grow your business. Vertical banking services for SMEs, with AI-powered business tools.
+  sector: banking
+  status: active
+  source: https://eqtgroup.com/about/current-portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: infinit
+- name: Insempra
+  url: https://insempra.bio/
+  description: Re-inventing how good and materials are produced
+  sector: biotech
+  status: active
+  source: https://eqtgroup.com/about/current-portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: insempra
+- name: Instabee
+  url: https://instabee.com/
+  description: Uncomplicated shipping - last-mile delivery service
+  sector: retail
+  status: active
+  source: https://eqtgroup.com/about/current-portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: instabee
+- name: Juni
+  url: https://www.juni.co/
+  description: Redefining the role of financial services
+  sector: fintech
+  status: active
+  source: https://eqtgroup.com/about/current-portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: juni
+- name: Kaiber
+  url: https://kaiber.ai/
+  description: Kaiber is a next-gen creative technology company focused on human and AI collaboration.
+  sector: artificial-intelligence
+  status: active
+  source: https://eqtgroup.com/about/current-portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: kaiber
+- name: Kive
+  url: https://kive.ai/
+  description: The smart asset platform for creators
+  sector: media-tech
+  status: active
+  source: https://eqtgroup.com/about/current-portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: kive
+- name: Knoetic
+  url: https://www.knoetic.com/
+  description: The HQ for Chief People Officers
+  sector: analytics
+  status: active
+  source: https://eqtgroup.com/about/current-portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: knoetic
+- name: Kota
+  url: https://www.kota.io/
+  description: Making core employee benefits work for modern companies and platforms
+  sector: fintech
+  status: active
+  source: https://eqtgroup.com/about/current-portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: kota
+- name: Lenus
+  url: https://lenusehealth.com/
+  description: Powering Health and Fitness Professionals Contact us. Contact us to learn more us and our
+    products. Do you want to know more investing with EQT?
+  sector: fitness-tech
+  status: active
+  source: https://eqtgroup.com/about/current-portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: lenus
+- name: Let's Do This
+  url: https://www.letsdothis.com/
+  description: Helping people discover epic experiences worldwide
+  sector: fitness-tech
+  status: active
+  source: https://eqtgroup.com/about/current-portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: lets-do-this
+- name: Linearity
+  url: https://www.linearity.io/
+  description: The most intuitive and precise illustration software
+  sector: design-tech
+  status: active
+  source: https://eqtgroup.com/about/current-portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: linearity
+- name: Marvel Fusion
+  url: https://marvelfusion.com/
+  description: A revolutionary carbon-free energy technology leveraging the latest breakthroughs in laser
+    & nanoscience for the ultimate commercial fusion power plant.
+  sector: energy-and-environmental
+  status: active
+  source: https://eqtgroup.com/about/current-portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: marvel-fusion
+- name: MarvelX
+  url: https://www.marvelx.ai/
+  description: MarvelX AI Agents take care of repetitive, high-stakes workflows so teams can focus on
+    the exceptions, not the routine.
+  sector: ai
+  status: active
+  source: https://eqtgroup.com/about/current-portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: marvelx
+- name: Meridian
+  description: Meridian is a portfolio company of EQT.
+  sector: fintech
+  status: active
+  source: https://eqtgroup.com/about/current-portfolio
+  slug: meridian
+  in_network: true
+  is_api_provider: false
+  matched_by: name-slug
+- name: Min Doktor
+  url: https://www.mindoktor.se/
+  description: Your health center on your mobile.
+  sector: health-tech
+  status: active
+  source: https://eqtgroup.com/about/current-portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: min-doktor
+- name: Moonscale
+  url: https://www.moonscale.com/
+  description: The leading synthetic media platform for revenue teams
+  sector: artificial-intelligence
+  status: active
+  source: https://eqtgroup.com/about/current-portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: moonscale
+- name: Moralis
+  url: https://moralis.io/api/nft/
+  description: The ultimate Web 3.0 development platform - build highly scalable and secure dApps in days
+  sector: web-development
+  status: active
+  source: https://eqtgroup.com/about/current-portfolio
+  slug: moralis
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Natural Cycles
+  url: https://www.naturalcycles.com/
+  description: Hormone-Free Birth Control Online
+  sector: health-tech
+  status: active
+  source: https://eqtgroup.com/about/current-portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: natural-cycles
+- name: Netlify
+  url: https://www.netlify.com/
+  description: The best way to build modern web projects
+  sector: web-development
+  status: active
+  source: https://eqtgroup.com/about/current-portfolio
+  slug: netlify
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Nothing
+  url: https://nothing.tech/
+  description: On a mission to remove the barriers between people and technology
+  sector: consumer-technology-sector
+  status: active
+  source: https://eqtgroup.com/about/current-portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: nothing
+- name: Oden Technologies
+  url: https://oden.io/
+  description: Industrial IoT & Analytics Software
+  sector: manufacturing
+  status: active
+  source: https://eqtgroup.com/about/current-portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: oden-technologies
+- name: Odyssey
+  url: https://odyssey.world
+  description: Odyssey is building superimagination.
+  sector: ai
+  status: active
+  source: https://eqtgroup.com/about/current-portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: odyssey
+- name: Packmatic
+  url: https://www.packmatic.io/
+  description: The one-stop shop for packaging solutions
+  sector: packaging
+  status: active
+  source: https://eqtgroup.com/about/current-portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: packmatic
+- name: Paid
+  url: https://www.agentpaid.ai/
+  description: Empowers AI agents to monetize based on success. AgentPaid is like billing, but extra.
+    AI agents demand a new kind of monetization.
+  sector: ai
+  status: active
+  source: https://eqtgroup.com/about/current-portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: paid
+- name: Parloa
+  url: https://www.parloa.com/
+  description: Unleashing the full potential of conversational AI
+  sector: artificial-intelligence
+  status: active
+  source: https://eqtgroup.com/about/current-portfolio
+  slug: parloa
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Payrails
+  url: https://www.payrails.com/
+  description: The OS for complex payment flows
+  sector: fintech
+  status: active
+  source: https://eqtgroup.com/about/current-portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: payrails
+- name: Peanut
+  url: https://www.peanut-app.io/
+  description: Connecting women across fertility and motherhood
+  sector: social-network
+  status: active
+  source: https://eqtgroup.com/about/current-portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: peanut
+- name: Pelago
+  url: https://www.pelagohealth.com/
+  description: Personalised addiction treatment for your workplace
+  sector: health
+  status: active
+  source: https://eqtgroup.com/about/current-portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: pelago
+- name: Permutive
+  url: https://permutive.com/
+  description: The only publisher data platform built on edge computing
+  sector: publishing
+  status: active
+  source: https://eqtgroup.com/about/current-portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: permutive
+- name: Playsome
+  url: https://www.playsome.fi
+  description: Creating deep and engaging gameplay
+  sector: mobile-gaming
+  status: active
+  source: https://eqtgroup.com/about/current-portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: playsome
+- name: Pruna AI
+  url: https://www.pruna.ai/
+  description: Making AI accessible & sustainable.
+  sector: artificial-intelligence
+  status: active
+  source: https://eqtgroup.com/about/current-portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: pruna-ai
+- name: Qevlar AI
+  url: https://www.qevlar.com/
+  description: Pioneering the frontier against evolving cyber threats
+  sector: engineering-services
+  status: active
+  source: https://eqtgroup.com/about/current-portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: qevlar-ai
+- name: Seeqc
+  url: https://seeqc.com/
+  description: Developing the first fully digital quantum computing platform
+  sector: quantum-computing
+  status: active
+  source: https://eqtgroup.com/about/current-portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: seeqc
+- name: Sifflet
+  url: https://www.siffletdata.com/
+  description: Helping organizations manage data quality monitoring at scale
+  sector: data-analytics
+  status: active
+  source: https://eqtgroup.com/about/current-portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: sifflet
+- name: Stacks
+  url: https://stacks.ai/
+  description: Stacks is a portfolio company of EQT.
+  sector: fintech
+  status: active
+  source: https://eqtgroup.com/about/current-portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: stacks
+- name: Standard AI
+  url: https://standard.ai/
+  description: AI-Powered Autonomous Checkout
+  sector: retail
+  status: active
+  source: https://eqtgroup.com/about/current-portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: standard-ai
+- name: Strawberry
+  url: https://strawberrybrowser.com/
+  description: The self-driving browser. Strawberry brings intuitive AI automation to your existing workflows.
+    Strawberry includes your personal team of AI companions.
+  sector: ai
+  status: active
+  source: https://eqtgroup.com/about/current-portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: strawberry
+- name: Superlist
+  url: https://superlist.com
+  description: Like a to-do list but better
+  sector: project-management-sector
+  status: active
+  source: https://eqtgroup.com/about/current-portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: superlist
+- name: SuperNormal
+  url: https://supernormal.com/
+  description: Video messaging for teams
+  sector: remote-work
+  status: active
+  source: https://eqtgroup.com/about/current-portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: supernormal
+- name: Supernova
+  url: https://www.supernova.io/
+  description: The next-generation design system platform
+  sector: design-tech
+  status: active
+  source: https://eqtgroup.com/about/current-portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: supernova
+- name: Syntetica
+  url: https://www.syntetica.co/
+  description: Using green chemistry to close the loop on synthetic textiles, starting with nylon
+  sector: sustainability
+  status: active
+  source: https://eqtgroup.com/about/current-portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: syntetica
+- name: Talentium
+  url: https://talentium.io/
+  description: The AI-powered hiring platform. The automated AI recruitment search engine that finds the
+    talent you're looking for in second, for recruiters.
+  sector: artificial-intelligence
+  status: active
+  source: https://eqtgroup.com/about/current-portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: talentium
+- name: The Exploration Company
+  url: https://www.exploration.space/
+  description: The Exploration Company’s mission is to build accessible, sustainable and cooperative space
+    worlds.
+  sector: aerospace-manufacturing
+  status: active
+  source: https://eqtgroup.com/about/current-portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: the-exploration-company
+- name: Timeless
+  url: https://www.timeless.investments/
+  description: Democratising access to new asset categories
+  sector: fintech
+  status: active
+  source: https://eqtgroup.com/about/current-portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: timeless
+- name: Token
+  url: https://token.io/
+  description: Where open banking means business
+  sector: fintech
+  status: active
+  source: https://eqtgroup.com/about/current-portfolio
+  slug: token-io
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Unmind
+  url: https://unmind.com/
+  description: Unmind is a portfolio company of EQT.
+  sector: hr-tech
+  status: active
+  source: https://eqtgroup.com/about/current-portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: unmind
+- name: Varjo
+  url: https://varjo.com/
+  description: Most advanced virtual and mixed reality solutions for professionals
+  sector: virtual-reality
+  status: active
+  source: https://eqtgroup.com/about/current-portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: varjo
+- name: Vectary
+  url: https://www.vectary.com/
+  description: Unlocking the potential of 3D
+  sector: design-tech
+  status: active
+  source: https://eqtgroup.com/about/current-portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: vectary
+- name: Verkor
+  url: https://verkor.com/en/
+  description: Verkor was founded in 2020 with the sole ambition of fast-tracking low‑carbon battery production
+    in France, to serve the European market.
+  sector: energy-and-environmental
+  status: active
+  source: https://eqtgroup.com/about/current-portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: verkor
+- name: Vev
+  url: https://www.vev.design/
+  description: The new era of visual web design
+  sector: design-tech
+  status: active
+  source: https://eqtgroup.com/about/current-portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: vev
+- name: ViridiCO2
+  url: https://viridico2.co.uk/
+  description: Utilizing CO2 to save our planet
+  sector: sustainability
+  status: active
+  source: https://eqtgroup.com/about/current-portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: viridico2
+- name: Volt
+  url: https://www.volt.io/
+  description: The global instant payments network
+  sector: fintech
+  status: active
+  source: https://eqtgroup.com/about/current-portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: volt
+- name: Vsim
+  url: https://v-sim.co.uk/
+  description: Robotics simulation tech. Building simulation technology and software solutions for robotics
+    to accelerate research, reduce costs and drive innovation.
+  sector: artificial-intelligence
+  status: active
+  source: https://eqtgroup.com/about/current-portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: vsim
+- name: Wandelbots
+  url: https://wandelbots.com/
+  description: Democratising robotics with demonstration-based teaching
+  sector: software-automation
+  status: active
+  source: https://eqtgroup.com/about/current-portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: wandelbots
+- name: Ylookup
+  url: https://www.ylookup.ai
+  description: Trusted AI automation allowing teams to standardise and accelerate manual workflows without
+    changing how they work.
+  sector: fintech
+  status: active
+  source: https://eqtgroup.com/about/current-portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: ylookup
+- name: Wolt
+  url: https://wolt.com
+  description: Finnish food-delivery platform; acquired by DoorDash in 2022.
+  sector: marketplace
+  status: acquired
+  source: https://eqtgroup.com/about/current-portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: wolt
+- name: Depop
+  url: https://depop.com
+  description: Peer-to-peer social marketplace for secondhand fashion; acquired by Etsy in 2021.
+  sector: marketplace
+  status: acquired
+  source: https://eqtgroup.com/about/current-portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: depop
+- name: Small Giant Games
+  url: https://smallgiantgames.com
+  description: Finnish mobile games studio (Empires & Puzzles); acquired by Zynga in 2019.
+  sector: gaming
+  status: acquired
+  source: https://eqtgroup.com/about/current-portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: small-giant-games
+- name: Typeform
+  url: https://typeform.com
+  description: Conversational online forms and surveys platform.
+  sector: saas
+  status: active
+  source: https://eqtgroup.com/about/current-portfolio
+  slug: typeform
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Kry
+  url: https://kry.se
+  description: European digital healthcare provider (also operates as Livi).
+  sector: healthtech
+  status: active
+  source: https://eqtgroup.com/about/current-portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: kry
+- name: Soundtrack Your Brand
+  url: https://soundtrackyourbrand.com
+  description: Background music streaming service for businesses.
+  sector: music
+  status: active
+  source: https://eqtgroup.com/about/current-portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: soundtrack-your-brand

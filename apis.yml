@@ -1,0 +1,83 @@
+aid: eqt-ventures
+name: EQT Ventures
+description: >-
+  EQT Ventures is the early-stage venture capital business within EQT Group, launched in 2016 and
+  operating out of Stockholm with investment-advisory offices in London, Berlin, Paris, Amsterdam,
+  and the United States (San Francisco / New York); the funds themselves are domiciled in Luxembourg.
+  The firm is a sector-agnostic, conviction-led lead investor that backs what it calls
+  "Generation-Defining Companies" from pre-seed and seed through Series A and B, writing checks that
+  reported ranges place between roughly EUR 1M and EUR 75M (most commonly EUR 2M-50M) and following on
+  as companies scale. EQT Ventures has raised approximately EUR 2.3B across three funds (EQT Ventures I,
+  II, and III) and is staffed largely by ex-founders and operators who provide hands-on support in
+  addition to capital. Its focus spans AI, SaaS and developer tools, fintech, healthtech, climate and
+  deeptech, robotics and aerospace, gaming, and consumer/marketplaces. Notable investments include
+  Wolt, Depop, Typeform, AnyDesk, Netlify, Fly.io, Einride, Small Giant Games, Kry, and Beamery.
+image: https://eqtgroup.com/favicon.ico
+x-type: venture-capital
+x-category: Venture Capital
+created: '2026-07-17'
+modified: '2026-07-17'
+specificationVersion: '0.20'
+tags:
+  - Venture Capital
+  - Pre-Seed
+  - Seed
+  - Series A
+  - Series B
+  - Artificial Intelligence
+  - Developer Tools
+  - Fintech
+  - Healthtech
+  - Climate
+  - Deep Tech
+  - Robotics
+  - Consumer
+  - Europe
+  - Stockholm
+apis: []
+common:
+  - type: Website
+    url: https://eqtventures.com/
+  - type: Website
+    url: https://eqtgroup.com/private-capital/eqt-ventures
+  - type: Portfolio
+    url: https://eqtgroup.com/about/current-portfolio
+  - type: Portfolio
+    url: portfolio/eqt-ventures-portfolio.yml
+  - type: Team
+    url: https://eqtventures.com/team
+  - type: Team
+    url: team/eqt-ventures-team.yml
+  - type: InvestmentThesis
+    url: https://eqtgroup.com/private-capital/eqt-ventures
+  - type: Blog
+    url: https://medium.com/eqtventures
+  - type: Crunchbase
+    url: https://www.crunchbase.com/organization/eqtventures
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/eqt-ventures
+  - type: Jobs
+    url: https://eqtgroup.com/about/careers
+  - type: Features
+    data:
+      - "Stage: Pre-seed, Seed, Series A, Series B (early-stage lead)"
+      - "Typical check: EUR 1M-75M (commonly EUR 2M-50M, reported)"
+      - "Sectors: sector-agnostic - AI, SaaS/developer tools, fintech, healthtech, climate/deeptech, robotics, aerospace, gaming, consumer/marketplaces"
+      - "Geography: Europe (primary) and United States"
+      - "Capital raised: ~EUR 2.3B across EQT Ventures I, II, III (reported)"
+      - "Founded: 2016"
+      - "HQ: Stockholm, Sweden (funds domiciled in Luxembourg)"
+      - "Offices: Stockholm, London, Berlin, Paris, Amsterdam, San Francisco / New York"
+      - "Portfolio: 88 current holdings across EQT Ventures I-III (firm site)"
+    sources:
+      - https://eqtgroup.com/private-capital/eqt-ventures
+      - https://eqtgroup.com/about/current-portfolio
+    updated: '2026-07-17'
+maintainers:
+  - FN: Kin Lane
+    email: info@apievangelist.com
+    url: https://apievangelist.com
+  - FN: APIs.json
+    url: http://apisjson.org
+  - FN: EQT Ventures
+    url: https://eqtventures.com/
