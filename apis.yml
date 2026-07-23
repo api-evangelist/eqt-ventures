@@ -12,6 +12,17 @@ description: >-
   addition to capital. Its focus spans AI, SaaS and developer tools, fintech, healthtech, climate and
   deeptech, robotics and aerospace, gaming, and consumer/marketplaces. Notable investments include
   Wolt, Depop, Typeform, AnyDesk, Netlify, Fly.io, Einride, Small Giant Games, Kry, and Beamery.
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
 image: https://eqtgroup.com/favicon.ico
 x-type: venture-capital
 x-category: Venture Capital
