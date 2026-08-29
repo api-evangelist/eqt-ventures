@@ -12,6 +12,17 @@ description: >-
   addition to capital. Its focus spans AI, SaaS and developer tools, fintech, healthtech, climate and
   deeptech, robotics and aerospace, gaming, and consumer/marketplaces. Notable investments include
   Wolt, Depop, Typeform, AnyDesk, Netlify, Fly.io, Einride, Small Giant Games, Kry, and Beamery.
+deliveryModel:
+  model: unknown
+  open_source: false
+  commercial: false
+  callable_host: false
+  label: Delivery model not determined — needs a product licence on record
+  confidence: low
+  source:
+  - none
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
