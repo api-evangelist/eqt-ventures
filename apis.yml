@@ -34,6 +34,8 @@ accessModel:
   source: []
   generated: '2026-07-22'
   method: derived
+  source:
+  - {url: 'https://eqtventures.com/', status: 301, note: 'declared website redirects to https://eqtgroup.com/private-capital/eqt-ventures — a different registrable domain (eqtventures.com -> eqtgroup.com), possible rename or acquisition (probed 2026-09-03, roadmap#169)'}
 image: https://eqtgroup.com/favicon.ico
 x-type: venture-capital
 x-category: Venture Capital
