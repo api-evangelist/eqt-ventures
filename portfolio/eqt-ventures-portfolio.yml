@@ -4,7 +4,7 @@ source: https://eqtgroup.com/about/current-portfolio
 summary:
   portfolio_total: 94
   in_network: 94
-  api_providers: 23
+  api_providers: 26
   missing: 0
   stubs_created: 0
 companies:
@@ -14,7 +14,7 @@ companies:
   sector: ai-robotics
   status: active
   source: https://eqtgroup.com/about/current-portfolio
-  slug: 1x-robotics
+  slug: 1x-technologies
   in_network: true
   is_api_provider: false
   matched_by: domain
@@ -498,7 +498,7 @@ companies:
   status: active
   source: https://eqtgroup.com/about/current-portfolio
   in_network: true
-  is_api_provider: false
+  is_api_provider: true
   slug: moonscale
   matched_by: domain
 - name: Moralis
@@ -679,7 +679,7 @@ companies:
   status: active
   source: https://eqtgroup.com/about/current-portfolio
   in_network: true
-  is_api_provider: false
+  is_api_provider: true
   slug: sifflet
   matched_by: domain
 - name: Stacks
@@ -773,7 +773,7 @@ companies:
   source: https://eqtgroup.com/about/current-portfolio
   in_network: true
   is_api_provider: false
-  slug: exploration
+  slug: the-exploration-company
   matched_by: domain
 - name: Timeless
   url: https://www.timeless.investments/
@@ -791,7 +791,7 @@ companies:
   sector: fintech
   status: active
   source: https://eqtgroup.com/about/current-portfolio
-  slug: token-io
+  slug: northmill
   in_network: true
   is_api_provider: true
   matched_by: domain
@@ -863,9 +863,9 @@ companies:
   status: active
   source: https://eqtgroup.com/about/current-portfolio
   in_network: true
-  is_api_provider: false
-  slug: volt
-  matched_by: name-slug
+  is_api_provider: true
+  slug: volt-io
+  matched_by: domain
 - name: Vsim
   url: https://v-sim.co.uk/
   description: Robotics simulation tech. Building simulation technology and software solutions for robotics
@@ -946,7 +946,7 @@ companies:
   source: https://eqtgroup.com/about/current-portfolio
   in_network: true
   is_api_provider: false
-  slug: kry
+  slug: kry-livi
   matched_by: domain
 - name: Soundtrack Your Brand
   url: https://soundtrackyourbrand.com
@@ -956,5 +956,5 @@ companies:
   source: https://eqtgroup.com/about/current-portfolio
   in_network: true
   is_api_provider: false
-  slug: soundtrackyourbrand
+  slug: soundtrack-your-brand
   matched_by: domain
