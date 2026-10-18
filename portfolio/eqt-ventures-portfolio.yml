@@ -57,7 +57,9 @@ companies:
   slug: argil
   in_network: true
   is_api_provider: true
-  matched_by: name-slug
+  matched_by: domain
+  url: https://www.argil.ai/
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: Baller League
   url: https://ballerleague.de/
   description: A new era of football.
@@ -481,6 +483,7 @@ companies:
   in_network: true
   is_api_provider: false
   matched_by: name-slug
+  x-url-candidate: https://meridian-nav.com/
 - name: Min Doktor
   url: https://www.mindoktor.se/
   description: Your health center on your mobile.
